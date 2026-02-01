@@ -6,3 +6,14 @@
 # 27th jan 2026
 - function overloading 1
 - WAP  write a program using function overloading which will add two numbers (int) , add threee numbers (int) and add 10 numbers (int).
+# 1st feb 2026
+- triangle
+- Given three sides of a triangle, first validate whether a triangle is possible. If valid, classify it as equilateral, isosceles, or scalene.
+
+- shopping
+- A shop offers a discount based on total purchase amount:
+o < ₹1000 → No discount
+o ₹1000–₹4999 → 5%
+o ₹5000–₹9999 → 10%
+o ≥ ₹10000 → 15%
+Compute the final bill and discount applied.
