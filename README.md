@@ -9,7 +9,7 @@
 # 1st feb 2026
 - triangle
 - Given three sides of a triangle, first validate whether a triangle is possible. If valid, classify it as equilateral, isosceles, or scalene.
-
+# 1st feb 2026
 - shopping
 - A shop offers a discount based on total purchase amount:
 o < ₹1000 → No discount
