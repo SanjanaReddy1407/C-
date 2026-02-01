@@ -12,8 +12,8 @@
 # 1st feb 2026
 - shopping
 - A shop offers a discount based on total purchase amount:
-o < ₹1000 → No discount
-o ₹1000–₹4999 → 5%
-o ₹5000–₹9999 → 10%
-o ≥ ₹10000 → 15%
-Compute the final bill and discount applied.
+- o < ₹1000 → No discount
+- o ₹1000–₹4999 → 5%
+- o ₹5000–₹9999 → 10%
+- o ≥ ₹10000 → 15%
+- Compute the final bill and discount applied.
