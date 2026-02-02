@@ -25,3 +25,7 @@
 - o Lowercase letter
 - o Digit
 - o Special symbol
+
+# 2nd feb 2026
+- Spynumber
+- Given a number, determine whether it is a spy number (sum of digits equals product of digits).
