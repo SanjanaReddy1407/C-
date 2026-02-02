@@ -17,3 +17,11 @@
 - o ₹5000–₹9999 → 10%
 - o ≥ ₹10000 → 15%
 - Compute the final bill and discount applied.
+
+# 2nd feb 2026
+- check_character
+- Given a character input, determine whether it is:
+- o Uppercase letter
+- o Lowercase letter
+- o Digit
+- o Special symbol
