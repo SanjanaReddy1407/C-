@@ -29,3 +29,7 @@
 # 2nd feb 2026
 - Spynumber
 - Given a number, determine whether it is a spy number (sum of digits equals product of digits).
+
+# 10th feb 2026
+- friendfunction
+- menu driven program for add, sub, multi, div 
